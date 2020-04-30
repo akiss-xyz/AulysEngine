@@ -3,6 +3,7 @@
 
 Aulys - a barebones cross-platform 3D engine for use in non-Euclidean geometries.
 =================================================================================
+![Demo scene](default.png)
 
 The name comes from a boy's name meaning "willing". The name is often shortened to Au, for 
 'gold' - I know, pretentious, but I think it's kinda neat.
