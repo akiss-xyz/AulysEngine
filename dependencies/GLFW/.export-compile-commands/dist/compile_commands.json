@@ -1,0 +1,97 @@
+[
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/context.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/context.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/context.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/context.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/egl_context.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/egl_context.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/egl_context.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/egl_context.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/glx_context.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/glx_context.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/glx_context.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/glx_context.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/init.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/init.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/init.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/init.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/input.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/input.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/input.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/input.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/linux_joystick.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/linux_joystick.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/linux_joystick.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/linux_joystick.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/monitor.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/monitor.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/monitor.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/monitor.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/osmesa_context.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/osmesa_context.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/osmesa_context.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/osmesa_context.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/posix_thread.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/posix_thread.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/posix_thread.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/posix_thread.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/posix_time.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/posix_time.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/posix_time.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/posix_time.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/vulkan.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/vulkan.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/vulkan.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/vulkan.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/window.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/window.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/window.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/window.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/x11_init.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/x11_init.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/x11_init.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/x11_init.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/x11_monitor.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/x11_monitor.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/x11_monitor.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/x11_monitor.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/x11_window.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/x11_window.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/x11_window.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/x11_window.c"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/GLFW",
+            "file": "/home/noid/Proj/aulys-release/dependencies/GLFW/src/xkb_unicode.c",
+            "command": "cc -MMD -MP -D_GLFW_X11 -m64 -O2 -o /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/xkb_unicode.o -MF /home/noid/Proj/aulys-release/dependencies/GLFW/build/int/Dist_linux_x86_64/GLFW/xkb_unicode.d -c /home/noid/Proj/aulys-release/dependencies/GLFW/src/xkb_unicode.c"
+          }
+]

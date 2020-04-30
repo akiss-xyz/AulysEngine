@@ -1,0 +1,7 @@
+[
+          {
+            "directory": "/home/noid/proj/aulys-engine/Sandbox",
+            "file": "/home/noid/proj/aulys-engine/Sandbox/src/main.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/proj/aulys-engine/Aulys/headers -I/home/noid/proj/aulys-engine/Aulys/include -I/home/noid/proj/aulys-engine/vendor/spdlog/include -m64 -g -o /home/noid/proj/aulys-engine/build/int/Debug_linux_x86_64/Sandbox/main.o -MF /home/noid/proj/aulys-engine/build/int/Debug_linux_x86_64/Sandbox/main.d -c /home/noid/proj/aulys-engine/Sandbox/src/main.cpp"
+          }
+]

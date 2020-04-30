@@ -1,0 +1,23 @@
+*.swp
+
+premake5
+premake5.exe
+
+build/*/**
+logs/**
+Aulys.sln
+
+# We don't want to commit the utility functions into the base folder.
+/build.sh
+/run.sh
+/buildrun.sh
+/generatevs2019solution.cmd
+
+# Visual Studio's stuff.
+.vs/
+*/*.vcxproj
+*/*.vcxproj.*
+
+# GNU Make stuff
+/Makefile
+

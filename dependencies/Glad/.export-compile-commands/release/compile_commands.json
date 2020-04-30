@@ -1,0 +1,7 @@
+[
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/Glad",
+            "file": "/home/noid/Proj/aulys-release/dependencies/Glad/src/glad.c",
+            "command": "cc -MMD -MP -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include/glad -m64 -O2 -g -o /home/noid/Proj/aulys-release/dependencies/Glad/build/int/Release_linux_x86_64/Glad/glad.o -MF /home/noid/Proj/aulys-release/dependencies/Glad/build/int/Release_linux_x86_64/Glad/glad.d -c /home/noid/Proj/aulys-release/dependencies/Glad/src/glad.c"
+          }
+]

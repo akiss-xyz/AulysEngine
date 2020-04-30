@@ -1,0 +1,199 @@
+[
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/dependencies/stb/stb_image.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/stb_image.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/stb_image.d -c /home/noid/Proj/aulys-release/dependencies/stb/stb_image.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Application.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Application.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Application.d -c /home/noid/Proj/aulys-release/Aulys/src/Application.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Core/Core.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Core.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Core.d -c /home/noid/Proj/aulys-release/Aulys/src/Core/Core.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Core/LayerStack.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/LayerStack.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/LayerStack.d -c /home/noid/Proj/aulys-release/Aulys/src/Core/LayerStack.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Events/Event.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Event.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Event.d -c /home/noid/Proj/aulys-release/Aulys/src/Events/Event.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/ImGui/ImGuiBuild.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/ImGuiBuild.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/ImGuiBuild.d -c /home/noid/Proj/aulys-release/Aulys/src/ImGui/ImGuiBuild.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/ImGui/ImGuiLayer.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/ImGuiLayer.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/ImGuiLayer.d -c /home/noid/Proj/aulys-release/Aulys/src/ImGui/ImGuiLayer.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Layer.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Layer.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Layer.d -c /home/noid/Proj/aulys-release/Aulys/src/Layer.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Log/ConsoleSink.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/ConsoleSink.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/ConsoleSink.d -c /home/noid/Proj/aulys-release/Aulys/src/Log/ConsoleSink.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Log/LogImpl.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/LogImpl.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/LogImpl.d -c /home/noid/Proj/aulys-release/Aulys/src/Log/LogImpl.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/Linux/LinuxInput.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/LinuxInput.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/LinuxInput.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/Linux/LinuxInput.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/Linux/LinuxWindow.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/LinuxWindow.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/LinuxWindow.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/Linux/LinuxWindow.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLBuffer.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLBuffer.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLBuffer.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLBuffer.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLContext.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLContext.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLContext.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLContext.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLFrameBuffer.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLFrameBuffer.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLFrameBuffer.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLFrameBuffer.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLRendererAPI.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLRendererAPI.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLRendererAPI.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLRendererAPI.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLShader.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLShader.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLShader.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLShader.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLTexture.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLTexture.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLTexture.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLTexture.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLVertexArray.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLVertexArray.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OpenGLVertexArray.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/OpenGL/OpenGLVertexArray.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/Window.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Window.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Window.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/Window.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/Windows/WindowsInput.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/WindowsInput.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/WindowsInput.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/Windows/WindowsInput.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Platform/Windows/WindowsWindow.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/WindowsWindow.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/WindowsWindow.d -c /home/noid/Proj/aulys-release/Aulys/src/Platform/Windows/WindowsWindow.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/Buffer.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Buffer.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Buffer.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/Buffer.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/FrameBuffer.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/FrameBuffer.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/FrameBuffer.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/FrameBuffer.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/GraphicsContext.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/GraphicsContext.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/GraphicsContext.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/GraphicsContext.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/OrthographicCamera.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OrthographicCamera.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/OrthographicCamera.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/OrthographicCamera.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/RenderCommand.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/RenderCommand.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/RenderCommand.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/RenderCommand.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/Renderer.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Renderer.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Renderer.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/Renderer.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/RendererAPI.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/RendererAPI.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/RendererAPI.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/RendererAPI.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/Shader.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Shader.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Shader.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/Shader.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/Texture.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Texture.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/Texture.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/Texture.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/Renderer/VertexArray.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/VertexArray.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/VertexArray.d -c /home/noid/Proj/aulys-release/Aulys/src/Renderer/VertexArray.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Aulys",
+            "file": "/home/noid/Proj/aulys-release/Aulys/src/pch.cpp",
+            "command": "cc -MMD -MP -DGLFW_INCLUDE_NONE -DAU_PLATFORM_LINUX -DAU_BUILD_SO -DAU_DEBUG -I/home/noid/Proj/aulys-release/Aulys -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/GLFW/include -I/home/noid/Proj/aulys-release/dependencies/Glad/include -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O0 -g -o /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/pch.o -MF /home/noid/Proj/aulys-release/build/int/Debug_linux_x86_64/Aulys/pch.d -c /home/noid/Proj/aulys-release/Aulys/src/pch.cpp"
+          }
+]

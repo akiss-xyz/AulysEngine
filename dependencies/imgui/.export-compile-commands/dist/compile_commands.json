@@ -1,0 +1,25 @@
+[
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/imgui",
+            "file": "/home/noid/Proj/aulys-release/dependencies/imgui/imgui.cpp",
+            "command": "cc -MMD -MP -m64 -O2 -fPIC -o /home/noid/Proj/aulys-release/dependencies/imgui/build/int/Dist_linux_x86_64/ImGui/imgui.o -MF /home/noid/Proj/aulys-release/dependencies/imgui/build/int/Dist_linux_x86_64/ImGui/imgui.d -c /home/noid/Proj/aulys-release/dependencies/imgui/imgui.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/imgui",
+            "file": "/home/noid/Proj/aulys-release/dependencies/imgui/imgui_demo.cpp",
+            "command": "cc -MMD -MP -m64 -O2 -fPIC -o /home/noid/Proj/aulys-release/dependencies/imgui/build/int/Dist_linux_x86_64/ImGui/imgui_demo.o -MF /home/noid/Proj/aulys-release/dependencies/imgui/build/int/Dist_linux_x86_64/ImGui/imgui_demo.d -c /home/noid/Proj/aulys-release/dependencies/imgui/imgui_demo.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/imgui",
+            "file": "/home/noid/Proj/aulys-release/dependencies/imgui/imgui_draw.cpp",
+            "command": "cc -MMD -MP -m64 -O2 -fPIC -o /home/noid/Proj/aulys-release/dependencies/imgui/build/int/Dist_linux_x86_64/ImGui/imgui_draw.o -MF /home/noid/Proj/aulys-release/dependencies/imgui/build/int/Dist_linux_x86_64/ImGui/imgui_draw.d -c /home/noid/Proj/aulys-release/dependencies/imgui/imgui_draw.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/dependencies/imgui",
+            "file": "/home/noid/Proj/aulys-release/dependencies/imgui/imgui_widgets.cpp",
+            "command": "cc -MMD -MP -m64 -O2 -fPIC -o /home/noid/Proj/aulys-release/dependencies/imgui/build/int/Dist_linux_x86_64/ImGui/imgui_widgets.o -MF /home/noid/Proj/aulys-release/dependencies/imgui/build/int/Dist_linux_x86_64/ImGui/imgui_widgets.d -c /home/noid/Proj/aulys-release/dependencies/imgui/imgui_widgets.cpp"
+          }
+]

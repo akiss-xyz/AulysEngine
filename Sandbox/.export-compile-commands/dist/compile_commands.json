@@ -1,0 +1,49 @@
+[
+          {
+            "directory": "/home/noid/Proj/aulys-release/Sandbox",
+            "file": "/home/noid/Proj/aulys-release/Sandbox/src/Geometry/Geometry.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DSANDBOX_AU -DAU_DIST -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/Sandbox/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/spdlog/include/spdlog -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O2 -o /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Geometry.o -MF /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Geometry.d -c /home/noid/Proj/aulys-release/Sandbox/src/Geometry/Geometry.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Sandbox",
+            "file": "/home/noid/Proj/aulys-release/Sandbox/src/Geometry/GeometryMaths.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DSANDBOX_AU -DAU_DIST -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/Sandbox/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/spdlog/include/spdlog -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O2 -o /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/GeometryMaths.o -MF /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/GeometryMaths.d -c /home/noid/Proj/aulys-release/Sandbox/src/Geometry/GeometryMaths.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Sandbox",
+            "file": "/home/noid/Proj/aulys-release/Sandbox/src/Geometry/Maths.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DSANDBOX_AU -DAU_DIST -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/Sandbox/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/spdlog/include/spdlog -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O2 -o /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Maths.o -MF /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Maths.d -c /home/noid/Proj/aulys-release/Sandbox/src/Geometry/Maths.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Sandbox",
+            "file": "/home/noid/Proj/aulys-release/Sandbox/src/Geometry/Models.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DSANDBOX_AU -DAU_DIST -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/Sandbox/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/spdlog/include/spdlog -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O2 -o /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Models.o -MF /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Models.d -c /home/noid/Proj/aulys-release/Sandbox/src/Geometry/Models.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Sandbox",
+            "file": "/home/noid/Proj/aulys-release/Sandbox/src/Geometry/Simplex.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DSANDBOX_AU -DAU_DIST -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/Sandbox/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/spdlog/include/spdlog -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O2 -o /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Simplex.o -MF /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Simplex.d -c /home/noid/Proj/aulys-release/Sandbox/src/Geometry/Simplex.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Sandbox",
+            "file": "/home/noid/Proj/aulys-release/Sandbox/src/Layers/SceneLayer.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DSANDBOX_AU -DAU_DIST -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/Sandbox/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/spdlog/include/spdlog -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O2 -o /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/SceneLayer.o -MF /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/SceneLayer.d -c /home/noid/Proj/aulys-release/Sandbox/src/Layers/SceneLayer.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Sandbox",
+            "file": "/home/noid/Proj/aulys-release/Sandbox/src/Layers/UIOverlay.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DSANDBOX_AU -DAU_DIST -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/Sandbox/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/spdlog/include/spdlog -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O2 -o /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/UIOverlay.o -MF /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/UIOverlay.d -c /home/noid/Proj/aulys-release/Sandbox/src/Layers/UIOverlay.cpp"
+          }
+,
+          {
+            "directory": "/home/noid/Proj/aulys-release/Sandbox",
+            "file": "/home/noid/Proj/aulys-release/Sandbox/src/Sandbox.cpp",
+            "command": "cc -MMD -MP -DAU_PLATFORM_LINUX -DSANDBOX_AU -DAU_DIST -I/home/noid/Proj/aulys-release/Aulys/src -I/home/noid/Proj/aulys-release/Sandbox/src -I/home/noid/Proj/aulys-release/dependencies/spdlog/include -I/home/noid/Proj/aulys-release/dependencies/spdlog/include/spdlog -I/home/noid/Proj/aulys-release/dependencies/imgui -I/home/noid/Proj/aulys-release/dependencies/glm -I/home/noid/Proj/aulys-release/dependencies/stb -I/home/noid/Proj/aulys-release/dependencies -m64 -O2 -o /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Sandbox.o -MF /home/noid/Proj/aulys-release/build/int/Dist_linux_x86_64/Sandbox/Sandbox.d -c /home/noid/Proj/aulys-release/Sandbox/src/Sandbox.cpp"
+          }
+]
